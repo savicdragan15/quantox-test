@@ -1,0 +1,8 @@
+start:
+L
+S
+G start
+
+next:
+L
+G next
